@@ -1,9 +1,9 @@
 package test;
 
 import org.junit.Test;
-import other.MedianHolder;
-import other.MessageBox;
-import other.MyHeap;
+import others.MedianHolder;
+import others.MessageBox;
+import others.MyHeap;
 
 import java.util.Comparator;
 

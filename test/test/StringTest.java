@@ -1,7 +1,7 @@
 package test;
 
 import org.junit.Test;
-import strings.StringAlogic;
+import stringUtils.StringAlogic;
 
 /**
  * Created by rsmno on 2018/3/17.

@@ -1,6 +1,6 @@
 package test;
 
-import matrix.Matrix;
+import matrix2.Matrix;
 import org.junit.Test;
 
 /**
