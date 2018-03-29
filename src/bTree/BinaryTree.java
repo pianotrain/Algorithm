@@ -14,6 +14,7 @@ public class BinaryTree {
         this.data = data;
     }
 
+    //递归生成平衡二叉树
     public static BinaryTree createBinaryTree(BinaryTree root,int data){
         if (root == null){
             return new BinaryTree(data);

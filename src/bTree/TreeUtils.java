@@ -8,6 +8,7 @@ import java.util.*;
  */
 public class TreeUtils {
 
+    //将数组转化为平衡二叉树
     public static BinaryTree initBTree(int[] arr){
         BinaryTree root = new BinaryTree(arr[0]);
         for (int i = 1; i < arr.length; i ++){
